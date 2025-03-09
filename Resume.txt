@@ -1,0 +1,72 @@
+Give me the Best resume which create with international standards and also it will cover ATS score of 90 abobe for below details, when i am sending my resume then i can select the Resume verification round, so you need to give the like this, note the point, create the the best, to best resume, in this resume can beat or manage the IIT, IIM or best rank holder, when any one see the resume the need to ask when can purchase the resume, because of the quality and coverage
+Degree: MSC.Computer science, 
+name:Shageetha Begam,
+Masters degree 2025 with the 80 %
+College name: Krishnasamy College of Science Arts and Management for Women
+School : Government HR sec school, Kozhipakam
+Mail Id: shageethabegam301@gmail.com
+
+
+
+
+Email: shageethabegam301@gmail.com
+LinkedIn: linkedin.com/in/shageethabegam Phone: +91-9786178971,
+Location: [Kozipakam, India
+
+Career Objective
+Highly motivated and results-driven MSC Computer Science student with a strong academic background and a passion for solving real-world problems using technology. Skilled in programming, data analysis, machine learning, and software development. Seeking to leverage technical expertise and innovative mindset in a challenging software development or data science role that allows me to contribute to organizational growth and enhance my skills further.
+
+Education
+Master of Science in Computer Science
+Krishnasamy College of Science Arts and Management for Women, 2025 (Expected)
+
+CGPA: 80%
+Relevant Coursework: Data Structures, Algorithm Design, Artificial Intelligence, Machine Learning, Database Management, Software Engineering, Computer Networks, Operating Systems.
+Higher Secondary Education
+Government HR Sec School, Kozhipakam
+
+Percentage: [Enter your percentage here]
+Subjects: Mathematics, Physics, Computer Science, English.
+Technical Skills
+Programming Languages: Python, Java, C++, SQL
+Software Tools: Git, Eclipse, Visual Studio, Jupyter Notebook, PyCharm
+Web Technologies: HTML, CSS, JavaScript
+Database Management: MySQL, MongoDB
+Frameworks & Libraries: TensorFlow, Keras, Scikit-learn, React.js (if applicable)
+Operating Systems: Windows, Linux
+Cloud Platforms: AWS (if applicable)
+Other Skills: Data Analysis, Problem Solving, Machine Learning, Agile Methodologies, Version Control (Git), Object-Oriented Programming (OOP).
+Academic Projects
+1. AI-Based Recommendation System
+
+Developed a recommendation system using machine learning algorithms (collaborative filtering, content-based filtering).
+Improved accuracy by 25% using hybrid filtering techniques.
+Technologies Used: Python, Pandas, Scikit-learn.
+2. E-Commerce Web Application
+
+Created a fully functional web application for an online shopping platform with features like user authentication, product catalog, and shopping cart.
+Integrated a MySQL database for managing product inventory and user data.
+Technologies Used: HTML, CSS, JavaScript, MySQL, Node.js.
+3. Sentiment Analysis Tool
+
+Built a sentiment analysis tool to analyze customer reviews and categorize them into positive, neutral, or negative.
+Improved data accuracy by preprocessing data using NLP techniques.
+Technologies Used: Python, NLTK, Machine Learning.
+Internships / Work Experience
+Software Development Intern
+[Company Name] (Optional, if applicable)
+
+Collaborated with the development team to design and implement features for web and mobile applications.
+Wrote clean, efficient, and maintainable code using Java and Python.
+Participated in daily stand-ups and code reviews, gaining valuable experience in Agile development methodologies.
+Data Analyst Intern
+[Company Name] (Optional, if applicable)
+
+Analyzed large datasets to extract actionable insights and presented findings to the team using data visualization tools.
+Automated reporting processes, reducing time spent on manual data analysis by 40%.
+Technologies Used: Excel, Python, Pandas, Matplotlib.
+Certifications
+Machine Learning Specialization – Coursera (Stanford University)
+Data Science Professional Certificate – IBM (Optional)
+AWS Certified Cloud Practitioner – Amazon Web Services (if applicable)
+Java Programming Certification – Oracle (if applicable)
