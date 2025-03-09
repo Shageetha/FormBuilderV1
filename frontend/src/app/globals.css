@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: 'Roboto', system-ui, sans-serif;
+  }
+}
+
+@layer components {
+  .btn-gradient {
+    @apply text-white font-medium transition-all duration-200;
+    background: linear-gradient(90deg, #0072ff 0%, #ff00c8 100%);
+  }
+  
+  .btn-gradient:hover {
+    @apply shadow-md;
+    background: linear-gradient(90deg, #0065e0 0%, #e100b3 100%);
+  }
+  
+  .btn-gradient:disabled {
+    @apply opacity-70 cursor-not-allowed;
+  }
+}
+
+.custom-scrollbar {
+  scrollbar-width: thin;
+  scrollbar-color: #CBD5E1 transparent;
+}
+
+.custom-scrollbar::-webkit-scrollbar {
+  width: 6px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background-color: #CBD5E1;
+  border-radius: 3px;
+}
+
+/* Animation classes */
+.animate-fadeIn {
+  animation: fadeIn 0.3s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+} 
